@@ -1,0 +1,37 @@
+# Site 网站 
+title: KAKARU-REC
+subtitle: KAKARU-REC
+description: Kakaru的录播拖拉机
+language: zh-CN
+timezone: Asia/Shanghai
+author: Kakaru
+
+# 文章
+post_asset_folder: true
+
+# 扩展
+theme: white
+
+# 插件
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    langPrefix: 'language-'
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
+  plugins:
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
