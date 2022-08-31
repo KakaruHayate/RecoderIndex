@@ -2,3 +2,10 @@ baseURL = 'http://kakaru.link/'
 languageCode = 'en-us'
 title = 'KAKARU-REC'
 theme = "blank"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
