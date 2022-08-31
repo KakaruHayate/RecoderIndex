@@ -1,4 +1,4 @@
 baseURL = 'https://kakaru.live/'
 languageCode = 'zh-cn'
 title = 'KAKARU-REC'
-theme = "blank"
+theme = "Basic Web Theme"
