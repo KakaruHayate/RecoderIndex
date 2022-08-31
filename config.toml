@@ -5,6 +5,7 @@ theme = "simple-style"
 
 [params]
 favicon = "favicon.ico"
+subtitles = "KAKARU-REC"
 referrer = "always"
 dateFormat = "2006 Jan Mon 2 15:04:05 MST"  # see: https://gohugo.io/functions/format/#gos-layout-string
 externalLinkIcon = true
