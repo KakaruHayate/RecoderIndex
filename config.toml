@@ -1,4 +1,4 @@
-baseURL = 'http://kakaru.link/'
-languageCode = 'en-us'
+baseURL = 'https://kakaru.link/'
+languageCode = 'zh-cn'
 title = 'KAKARU-REC'
 theme = "blank"
