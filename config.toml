@@ -1,4 +1,13 @@
 baseURL = 'https://kakaru.live/'
 languageCode = 'zh-cn'
 title = 'KAKARU-REC'
-theme = "basicwebtheme"
+theme = "simple-style"
+
+[params]
+subtitle = "KAKARU-REC"
+favicon = "favicon.ico"
+githubUrl = "https://space.bilibili.com/26881/"
+referrer = "always"
+dateFormat = "2006 Jan Mon 2 15:04:05 MST"  # see: https://gohugo.io/functions/format/#gos-layout-string
+externalLinkIcon = true
+externalLinkNewWindow = true
