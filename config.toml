@@ -1,6 +1,5 @@
 baseURL = 'https://kakaru.live/'
 languageCode = 'zh-cn'
-title = 'KAKARU-REC'
 theme = "simple-style"
 
 [params]
