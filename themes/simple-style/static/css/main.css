@@ -215,22 +215,6 @@ svg:hover.permalink {
     margin-right: 10px;
 }
 
-
-nav#TableOfContents:before {
-    content: 'Content';
-    font-weight: bold;
-}
-
-nav#TableOfContents:lang(*-Hans)::before {
-    content: '目录';
-    font-weight: bold;
-}
-
-nav#TableOfContents ul {
-    margin: 0;
-    padding-inline-start: 24px;
-}
-
 .content-with-toc {
     width: calc(100% - 220px);
     margin: 0;
