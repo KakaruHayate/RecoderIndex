@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, "黑体", Sans-Serif;
+    font-family: Arial, "Microsoft YaHei", Sans-Serif;
     font-size: 16px;
 }
 
@@ -73,7 +73,7 @@ hr {
     border: none;
     border-top: 1px dashed #999;
     color: #fff;
-    background-color: #E5E5E5;
+    background-color: #fff;
     height: 1px
 }
 
